@@ -1,0 +1,30 @@
+.footer {
+    position: fixed;
+    overflow: hidden;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aqua;
+}
+
+body {
+    background-color: gray;
+    margin: 0;
+}
+
+hr {
+    display: block;
+    margin-before: 0.5em;
+    margin-after: 0.5em;
+    margin-start: auto;
+    margin-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+
+a{ padding: 10%;
+    color:black;
+    text-decoration-line: none;
+    
+}
